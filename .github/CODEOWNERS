@@ -1,0 +1,10 @@
+# Thay @member1, @member2 bằng GitHub username thật của thành viên phụ trách
+# Phần 1: Ứng dụng Web 3-Tier & Docker
+/frontend/              @member1
+/backend/               @member1
+/docker-compose.yml     @member1
+
+# Phần 2: CI/CD & DevSecOps Pipeline
+/.github/               @member2
+/sonar-project.properties @member2
+/.gitleaks.toml         @member2
