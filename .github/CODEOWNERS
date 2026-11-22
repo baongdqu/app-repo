@@ -5,6 +5,6 @@
 /docker-compose.yml     @member1
 
 # Phần 2: CI/CD & DevSecOps Pipeline
-/.github/               @member2
+/.github/                 @member2
 /sonar-project.properties @member2
-/.gitleaks.toml         @member2
+/.gitleaks.toml           @member2
